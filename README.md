@@ -31,15 +31,9 @@ No build step, no backend, no API keys.
 ## Run it
 
 1. Download or clone this repo.
-2. Open `bannamap.html` in a modern browser.
+2. Open `Index.html` in a modern browser.
 
-For the most reliable map tiles, serve it locally instead of opening the file directly:
-
-```bash
-python -m http.server
-```
-
-Then visit `http://localhost:8000/bannamap.html`.
+Then visit `https://fsd-five-fawn.vercel.app/`.
 
 An internet connection is needed for live results. Without one, the **Use sample data** option still lets you explore the app.
 
